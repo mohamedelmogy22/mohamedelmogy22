@@ -88,8 +88,8 @@ My goal is to become a skilled AI & Machine Learning Engineer while developing i
 
 # Contact
 
-- **GitHub:** [Your GitHub Profile](https://github.com/)
-- **LinkedIn:** [Add Your LinkedIn Profile]
-- **Email:** [Add Your Professional Email]
+- **GitHub:** [https://github.com/mohamedelmogy22]
+- **LinkedIn:** [www.linkedin.com/in/mohamed-elmogy-505b13410]
+- **Email:** [elmogy262@gmail.com]
 
 Feel free to explore my repositories and connect with me!
